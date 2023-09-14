@@ -99,7 +99,7 @@ def getBeijinTime():
                 # print(msg_mi)
     else:
         print("当前主人设置了0步数呢，本次不提交")
-        return
+        
 
 
 # 获取登录code
